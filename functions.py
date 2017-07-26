@@ -9,7 +9,7 @@ import glint
 glint.load_plugin('core-gui')
 
 
-class Commands():a
+class Commands():
     def send(self, program):
 
         if program == "maya":
